@@ -1,4 +1,4 @@
-# StatswithRProject
+# Predict the Rate of Vaccine Acceptance in U.S. States
 
 Can you predict the rate of vaccine acceptance in U.S. states?
 
